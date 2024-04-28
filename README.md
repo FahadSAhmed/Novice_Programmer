@@ -1,1 +1,4 @@
 # Novice_Programmer
+
+
+Welcome to our introductory Python programming course designed for beginners with no prior experience in coding. In this course, we will embark on an exploration of the fundamental concepts of programming using Python, a versatile and beginner-friendly language widely used in various fields such as web development, data analysis, and artificial intelligence. Throughout the course, you will learn the basics of writing and executing Python code, understanding variables, data types, and operators, as well as control flow structures like loops and conditionals. By the end of this course, you will have gained a solid foundation in Python programming, equipping you with the essential skills to tackle more complex coding challenges and pursue further learning in the exciting world of computer science and software development.
